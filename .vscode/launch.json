@@ -1,0 +1,26 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ROS: Rviz launch (doesn't work)",
+      "request": "launch",
+      "target": "/home/ricks/Development/work/ros-gazebo-launch-bug-ws/src/ros-gazebo-launch-bug/launch/broken_rviz_launch.launch",
+      "type": "ros"
+    },
+    {
+      "name": "ROS: Rviz launch (works)",
+      "request": "launch",
+      "target": "/home/ricks/Development/work/ros-gazebo-launch-bug-ws/src/ros-gazebo-launch-bug/launch/working_rviz_launch.launch",
+      "type": "ros"
+    },
+    {
+      "name": "ROS: Gazebo launch (works)",
+      "request": "launch",
+      "target": "/home/ricks/Development/work/ros-gazebo-launch-bug-ws/src/ros-gazebo-launch-bug/launch/broken_gazebo_launch.launch",
+      "type": "ros"
+    }
+  ]
+}

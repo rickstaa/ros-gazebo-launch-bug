@@ -1,0 +1,20 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#983ce6",
+    "activityBar.activeBorder": "#e69739",
+    "activityBar.background": "#983ce6",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#e69739",
+    "activityBarBadge.foreground": "#15202b",
+    "tab.activeBorder": "#983ce6",
+    "titleBar.activeBackground": "#7f1bd4",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#7f1bd499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#7f1bd4",
+  "python.autoComplete.extraPaths": [
+    "/opt/ros/noetic/lib/python3/dist-packages"
+  ]
+}

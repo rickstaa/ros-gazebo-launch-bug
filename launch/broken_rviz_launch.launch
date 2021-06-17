@@ -1,0 +1,4 @@
+<!-- This launch file can not be debuged due to the anon function (see https://github.com/ms-iot/vscode-ros/issues/206) -->
+<launch>
+    <node name="$(anon rviz)" pkg="rviz" type="rviz" respawn="false" output="screen"/>
+</launch>
